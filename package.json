@@ -1,0 +1,16 @@
+{
+  "name": "ican-academy-assessment",
+  "version": "1.0.0",
+  "description": "ICAN Academy Reading Assessment with Notion integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["assessment", "reading", "notion", "education"],
+  "author": "ICAN Academy",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
